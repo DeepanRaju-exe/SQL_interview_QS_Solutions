@@ -16,7 +16,7 @@ My logic :
 3.pulling out the entry where tax amount crosses 2000.
 
 
-Solution : https://github.com/DeepanRaju-exe/SQL_interview_QS_Solutions/blob/main/Meesho/Running_SUM.sql
+Solution : [link](https://github.com/DeepanRaju-exe/SQL_interview_QS_Solutions/blob/main/Meesho/Running_SUM.sql)
 ======================================
 
 
