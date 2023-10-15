@@ -1,6 +1,6 @@
-## 2 questions asked in meesho for business analyst role.
+# 2 questions asked in meesho for business analyst role.
 
-### 1.We have table where customer id and tax amount and date has been logged we have to return the particular date for each customer where the tax amount crossing 2000.
+## 1.We have table where customer id and tax amount and date has been logged we have to return the particular date for each customer where the tax amount crossing 2000.
 
 Table:
 
