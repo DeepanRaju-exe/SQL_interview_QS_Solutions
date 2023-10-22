@@ -12,7 +12,9 @@ Result  :
 
 My logic :
 1.Getting the table aligned by cust id ,date tax by ascending
+
 2.Calculating the running sum for each customer for particular date.
+
 3.pulling out the entry where tax amount crosses 2000.
 
 
@@ -32,10 +34,13 @@ Result :
 My Logic :
 
 1.Creating CTE as below :
+
 Seperating the seat and row for each seat_number
 labling Row number for each seat_number where occupancy is zero ie) un occupied
 2.Pulling out the minumum and max seat number for each row by self joinig on condition that row number dofference and seat number difference should be 3.
+
 3.Concating the seat numbers by using those min and max seat.
+
 
 Solution: [Link](https://github.com/DeepanRaju-exe/SQL_interview_QS_Solutions/blob/main/Meesho/Consecutive_seats.sql)
 =====================================
