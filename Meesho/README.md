@@ -11,7 +11,7 @@ Result  :
 ![image](https://github.com/DeepanRaju-exe/SQL_interview_QS_Solutions/assets/68472546/584cf839-4533-4927-9529-23e13651abad)
 
 My logic :
-1.Getting the table aligned by cust id and tax amount by ascending
+1.Getting the table aligned by cust id ,date tax by ascending
 2.Calculating the running sum for each customer for particular date.
 3.pulling out the entry where tax amount crosses 2000.
 
