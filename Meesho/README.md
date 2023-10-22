@@ -37,7 +37,8 @@ My Logic :
 
 Seperating the seat and row for each seat_number
 labling Row number for each seat_number where occupancy is zero ie) un occupied
-2.Pulling out the minumum and max seat number for each row by self joinig on condition that row number dofference and seat number difference should be 3.
+
+2.Pulling out the minumum and max seat number for each row by self joinig on condition that row number dofference and seat number difference should be "3"
 
 3.Concating the seat numbers by using those min and max seat.
 
